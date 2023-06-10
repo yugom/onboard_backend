@@ -1,0 +1,24 @@
+{
+  "name": "onboard_backend",
+  "version": "1.0.0",
+  "description": "onboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yugom/onboard_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yugom/onboard_backend/issues"
+  },
+  "homepage": "https://github.com/yugom/onboard_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
